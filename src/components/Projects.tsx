@@ -8,7 +8,7 @@ const Projects = () => {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagy0QT2o4dh5uEJjPouIEw919aeutKSAJpw&s",
       technologies: ["React", "Node.js", "MongoDB","AI"],
       github: "https://github.com/not-Skul/QuizFluence",
-      demo: "https://example.com"
+      demo: "#"
     },
     {
       title: "Dtox",
@@ -20,11 +20,19 @@ const Projects = () => {
     },
     {
       title: "Blogify",
-      description: "Mobile app for task management",
+      description: "A Fully functional blog website with user management.",
       image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=600",
-      technologies: ["React Native", "Firebase"],
-      github: "https://github.com",
-      demo: "https://example.com"
+      technologies: ["Python", "Flask","SQL"],
+      github: "https://github.com/not-Skul/Blog_website",
+      demo: "#"
+    },
+    {
+      title: "MonkeyPox Detection website",
+      description: "A model integrated into streamlit website for predicting monkeypox in a given photo.",
+      image: "https://images.unsplash.com/photo-1706639449172-e490ead545ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9ua2V5cG94fGVufDB8fDB8fHww",
+      technologies: ["Machine Learning", "Streamlit","Kaggle],
+      github: "#",
+      demo: "#"
     }
   ];
 
