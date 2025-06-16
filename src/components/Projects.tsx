@@ -27,12 +27,12 @@ const Projects = () => {
       demo: "#"
     },
     {
-      title: "MonkeyPox Detection website",
-      description: "A model integrated into streamlit website for predicting monkeypox in a given photo.",
-      image: "https://images.unsplash.com/photo-1706639449172-e490ead545ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9ua2V5cG94fGVufDB8fDB8fHww",
+      title: "Object classification model",
+      description: "A model integrated into streamlit website for predicting object in the given image.Based on CIFAR-10 dataset",
+      image: "https://www.shutterstock.com/shutterstock/photos/1120314500/display_1500/stock-photo-machine-learning-analytics-identify-person-and-object-technology-artificial-intelligence-concept-1120314500.jpg",
       technologies: ["Machine Learning", "Streamlit","Kaggle"],
-      github: "#",
-      demo: "#"
+      github: "https://github.com/not-Skul/ObjectClassifier",
+      demo: "https://cifar10class.streamlit.app/"
     }
   ];
 
