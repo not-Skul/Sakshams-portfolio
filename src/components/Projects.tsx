@@ -33,6 +33,13 @@ const Projects = () => {
       technologies: ["Machine Learning", "Streamlit","Kaggle"],
       github: "https://github.com/not-Skul/ObjectClassifier",
       demo: "https://cifar10class.streamlit.app/"
+    },{
+      title: "Amazon-scraper",
+      description: "Developed an automated Amazon product scraper using Python and Selenium to extract product details across multiple pages.Implemented stealth techniques to bypass anti-bot detection and efficiently collect structured data for analysis",
+      image: "https://proxyway.com/wp-content/uploads/2023/01/best-amazon-scrapers.png",
+      technologies: ["Selenium","Web scraping","Pandas"],
+      github: "https://github.com/not-Skul/Amazon-Scraper",
+      demo: "#"
     }
   ];
 
