@@ -40,7 +40,15 @@ const Projects = () => {
       technologies: ["Selenium","Web scraping","Pandas"],
       github: "https://github.com/not-Skul/Amazon-Scraper",
       demo: "#"
-    }
+    },{
+  title: "MITRA - Smart AI Assistant",
+  description: "An AI-powered personal assistant that controls servo motors, reads emails, edits docs, and manages Notion — blending real-world control with digital automation.",
+  image: "https://media.istockphoto.com/id/1462017933/photo/chatbot-assistant-on-smartphone-app-interface-with-artificial-intelligence-technology.jpg?s=612x612&w=0&k=20&c=zwqCMvNU86dgJ0agKzUvqqZInavFSVmLVDqVTzTeayE=",
+  technologies: ["Python", "Arduino", "NLP", "Automation","N8N","Ngrok"],
+  github: "#",
+  demo: "#"
+}
+
   ];
 
   return (
